@@ -30,7 +30,7 @@
  <br>
  <h2 align="left">🌐 Socials: </h2>
 <div align="left"> 
-  <a href="mohdkamal.mk023@gmail.com">
+  <a href="https://mail.google.com/mohdkamal.mk023@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-kamal-865a02228" target="_blank">
